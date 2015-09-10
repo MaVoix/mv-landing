@@ -9086,6 +9086,23 @@ button.close {
   width: 100%;
   height: 100%; }
 
+/* line 19, /Users/valentinchaput/code/valentinchaput/mv-landing/source/stylesheets/pages/_home.css.scss */
+.bg-home {
+  background: -webkit-linear-gradient(0deg, #FFB713 10%, #EEEEEE 90%);
+  /* Chrome 10+, Saf5.1+ */
+  background: -moz-linear-gradient(0deg, #FFB713 10%, #EEEEEE 90%);
+  /* FF3.6+ */
+  background: -ms-linear-gradient(0deg, #FFB713 10%, #EEEEEE 90%);
+  /* IE10 */
+  background: -o-linear-gradient(0deg, #FFB713 10%, #EEEEEE 90%);
+  /* Opera 11.10+ */
+  background: linear-gradient(0deg, #FFB713 10%, #EEEEEE 90%);
+  /* W3C */ }
+
+/* line 27, /Users/valentinchaput/code/valentinchaput/mv-landing/source/stylesheets/pages/_home.css.scss */
+.logo-social {
+  font-size: 100px; }
+
 /*
 ==============================================
 CSS3 ANIMATION CHEAT SHEET
