@@ -8954,7 +8954,7 @@ button.close {
   /* line 65, /Users/valentinchaput/code/valentinchaput/mv-landing/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > a:hover,
   .navbar-wagon .navbar-nav > .open > a:hover {
-    color: #FDB631;
+    color: #F8473F;
     background-color: transparent; }
   /* line 71, /Users/valentinchaput/code/valentinchaput/mv-landing/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand,
@@ -9102,6 +9102,10 @@ button.close {
 /* line 27, /Users/valentinchaput/code/valentinchaput/mv-landing/source/stylesheets/pages/_home.css.scss */
 .logo-social {
   font-size: 100px; }
+
+/* line 31, /Users/valentinchaput/code/valentinchaput/mv-landing/source/stylesheets/pages/_home.css.scss */
+.text-white {
+  color: white; }
 
 /*
 ==============================================
